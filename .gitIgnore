@@ -1,0 +1,17 @@
+
+/node_modules
+/backend/config/config.env
+/fronet-end/node_modules
+/fronet-end/.pnp
+/fronet-end/.pnp.js
+
+/fronet-end/coverage
+
+/fronet-end/build
+
+/fronet-end/.DS_Store
+/fronet-end/.env.local
+/fronet-end/.env.development.local
+/fronet-end/.env.test.local
+/fronet-end/.env.production.local
+
