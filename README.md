@@ -1,6 +1,4 @@
-### **Technologies** Used Some of the technologies used in the development of this web application are as follow:
-
-- 
+### **Technologies** Used Some of the technologies used in the development of this web application are as follow: 
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas): It provides a free cloud service to store MongoDB collections.
 - 
 - [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
