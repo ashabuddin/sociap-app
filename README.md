@@ -1,3 +1,28 @@
+
+ ### **User** features this project
+
+- Login/Signup User Account
+- Update Profile/Password User Account
+- Reset Password Mail using Sendgrid
+- forget password recover
+- post images can be uploaded using the file system.
+- copy the link to the post.
+- search other users by username.
+- user suggestions menu.
+- delete posts and comments.
+- Explore the page to view other posts by random users.
+- profile page.
+- edit profile page user data.
+- password is stored in the database in an encrypted format with salt.
+- create and edit posts.
+- like, comment, and edit posts.
+- posts include text(caption) and image(s).
+- comment on posts.
+- reply to comments.
+- like comments.
+- profile page shows user details and posts with a following and followers menu.
+
+
 ### **Technologies** Used Some of the technologies used in the development of this web application are as follow: 
 - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas): It provides a free cloud service to store MongoDB collections.
 - 
